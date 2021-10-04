@@ -15,11 +15,11 @@
    (version "1.1")
    (source (origin
             (method git-fetch)
-            (uri (git-reference (url "https://github.com/Rakurri/rakurri-brush-set-for-krita")
-            (commit "a4d915686ad8d7fd565c4d095329a562a6655662")))
+            (uri (git-reference (url "https://github.com/tekakutli/rakurri-brush-set-for-krita")
+            (commit "1d13a6312f5520cdb329cc47c3cb08aabf53beb3")))
             (sha256
              (base32
-              "1csay05vv477012hz9z2y1662axgmhbbw8kl7i9323bm7mfhc2m4"))))
+              "0jzzfsjl0j9l4jw1r0sn7d5hr02sh9v4r06qc54w7jsc5w32aai9"))))
    (build-system gnu-build-system)
    (synopsis "Awesome brushes developed by Rakurri for Krita 5")
    (description
